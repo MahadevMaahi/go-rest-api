@@ -5,7 +5,7 @@ import(
 	"math/rand"
 	"strconv"
 	"time"
-	model "github.com/MahadevMaahi/jwt-api-authentication/db/model"
+	model "github.com/MahadevMaahi/go-rest-api/db/model"
 )
 
 var movieList []model.Movie

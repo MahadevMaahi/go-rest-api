@@ -3,7 +3,7 @@ package router
 import(
 	"fmt"
 	"github.com/gorilla/mux"
-	db "github.com/MahadevMaahi/jwt-api-authentication/db"
+	db "github.com/MahadevMaahi/go-rest-api/db"
 )
 
 type MuxRouter struct {}

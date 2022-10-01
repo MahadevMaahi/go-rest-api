@@ -1,4 +1,4 @@
-module github.com/MahadevMaahi/jwt-api-authentication
+module github.com/MahadevMaahi/go-rest-api
 
 go 1.19
 

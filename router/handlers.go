@@ -4,8 +4,8 @@ import(
 	"encoding/json"
 	"net/http"
 	"github.com/gorilla/mux"
-	db "github.com/MahadevMaahi/jwt-api-authentication/db"
-	model "github.com/MahadevMaahi/jwt-api-authentication/db/model"
+	db "github.com/MahadevMaahi/go-rest-api/db"
+	model "github.com/MahadevMaahi/go-rest-api/db/model"
 )
 
 func getMovies(w http.ResponseWriter, r *http.Request) {
