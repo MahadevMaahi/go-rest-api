@@ -4,7 +4,7 @@ import(
 	"fmt"
 	"log"
 	"net/http"
-	router "github.com/MahadevMaahi/jwt-api-authentication/router"
+	router "github.com/MahadevMaahi/go-rest-api/router"
 )
 
 func main() {
